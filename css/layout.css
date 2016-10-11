@@ -407,7 +407,7 @@ ul#nav li a:focus { color: goldenrod; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background:   darkgoldenrod;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -1075,6 +1075,7 @@ footer .social-links li:first-child { margin-left: 0; }
    -o-transition: all 0.2s ease-in-out;
    -ms-transition: all 0.2s ease-in-out;
    transition: all 0.2s ease-in-out;
+
 
    color: #fff;
    font-size: 21px;

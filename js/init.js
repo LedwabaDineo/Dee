@@ -178,15 +178,16 @@
 
 
 }
-$(window).load(function() {
-    setTimeout(function() {
-       $('#status').fadeOut('slow', function() {
-    // Animate loader off screen
-    $(".se-pre-con").fadeOut("slow");
-    });
-  }, 3000);
 
- });
+$(document).ready(function() {
+    setTimeout(function() {
+        $('#status').fadeOut('slow', function() {
+            // Animate loader off screen
+            $(".se-pre-con").fadeOut("slow");
+        });
+    }, 3000);
+
+});
 
 
 

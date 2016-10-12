@@ -2,6 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d83ed855-e5ae-48f2-aadd-a5819b1a7986" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-128x/Preloader_7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-32x/loader7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/loader-64x/Preloader_7.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/layout.css" afterPath="$PROJECT_DIR$/css/layout.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/init.js" afterPath="$PROJECT_DIR$/js/init.js" />
     </list>
@@ -23,21 +46,44 @@
     <favorites_list name="Official_Site" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51933336">
+    <splitter split-orientation="horizontal" split-proportion="0.5902141">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="470">
-                  <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+                <state relative-caret-position="807">
+                  <caret line="219" column="31" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
                   <folding>
-                    <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="e#9681#9761#0" expanded="false" />
-                    <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                    <element signature="n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="e#9659#9739#0" expanded="false" />
+                    <marker date="1476282807409" expanded="false" signature="9839:15162" ph="..." />
+                    <marker date="1476282807409" expanded="false" signature="10009:15114" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="block.rnc" pinned="false" current-in-tab="false">
+            <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/block.rnc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="471">
+                  <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="modernizr.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/modernizr.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="740">
+                  <caret line="3" column="14592" selection-start-line="3" selection-start-column="14592" selection-end-line="3" selection-end-column="14592" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -77,21 +123,21 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="layout.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/layout.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+                <state relative-caret-position="34">
+                  <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="init.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="init.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/init.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="743">
-                  <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+                <state relative-caret-position="777">
+                  <caret line="185" column="45" selection-start-line="185" selection-start-column="45" selection-end-line="185" selection-end-column="45" />
                   <folding />
                 </state>
               </provider>
@@ -156,9 +202,10 @@
         <option value="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" />
         <option value="$PROJECT_DIR$/css/media-queries.css" />
         <option value="$PROJECT_DIR$/js/jquery-1.5.2.min.js" />
+        <option value="$PROJECT_DIR$/js/init.js" />
+        <option value="$PROJECT_DIR$/js/modernizr.js" />
         <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/init.js" />
       </list>
     </option>
   </component>
@@ -230,7 +277,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Official_Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Official_Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Official_Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Official_Site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="loader-64x" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,10 +328,10 @@
       <recent name="C:\Personal\Official_Site\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Personal\Official_Site\images" />
       <recent name="C:\Personal\Official_Site" />
       <recent name="C:\Personal\Official_Site\js" />
       <recent name="C:\Personal\Official_Site\css" />
-      <recent name="C:\Personal\Official_Site\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -682,12 +761,12 @@
       <option name="presentableId" value="Default" />
       <updated>1476097524807</updated>
       <workItem from="1476097526477" duration="13938000" />
-      <workItem from="1476168417227" duration="23865000" />
+      <workItem from="1476168417227" duration="29210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37803000" />
+    <option name="totallyTimeSpent" value="43148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -740,12 +819,13 @@
         <state relative-caret-position="1275">
           <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
           <folding>
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9681#9761#0" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#9659#9739#0" expanded="false" />
+            <marker date="1476282807409" expanded="false" signature="9839:15162" ph="..." />
+            <marker date="1476282807409" expanded="false" signature="10009:15114" ph="..." />
           </folding>
         </state>
       </provider>
@@ -884,16 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/modernizr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-1.5.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -910,34 +980,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="185" column="45" selection-start-line="185" selection-start-column="45" selection-end-line="185" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="3" column="14592" selection-start-line="3" selection-start-column="14592" selection-end-line="3" selection-end-column="14592" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        <state relative-caret-position="34">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="665" column="0" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+        <state relative-caret-position="807">
+          <caret line="219" column="31" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
           <folding>
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#9681#9761#0" expanded="false" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#9659#9739#0" expanded="false" />
+            <marker date="1476282807409" expanded="false" signature="9839:15162" ph="..." />
+            <marker date="1476282807409" expanded="false" signature="10009:15114" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

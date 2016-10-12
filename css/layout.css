@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Audiowide);
 
 /* ------------------------------------------------------------------ */
 /* a. General Styles
@@ -280,8 +281,8 @@ ul#nav li a:focus { color: goldenrod; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
-   padding-top: 96px;
+   background: #ffffff;
+   /*padding-top: 96px;*/
    padding-bottom: 66px;
    overflow: hidden;
 }
@@ -291,12 +292,13 @@ ul#nav li a:focus { color: goldenrod; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #000000;
+   border-bottom: 3px solid #11ABB0;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #000000;
 }
 #about .profile-pic {
    position: relative;
@@ -310,19 +312,6 @@ ul#nav li a:focus { color: goldenrod; }
    padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
-#about .download .button {
-   margin-top: 6px;
-   background: #444;
-}
-#about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
-}
-#about .download .button i {
-   margin-right: 15px;
-   font-size: 20px;
-}
-
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -666,63 +655,6 @@ ul#nav li a:focus { color: goldenrod; }
    opacity: 0;
 }
 
-/* ------------------------------------------------------------------ */
-/* f. Call To Action Section
-/* ------------------------------------------------------------------ */
-
-#call-to-action {
-   background: #212121;
-   padding-top: 66px;
-   padding-bottom: 48px;
-}
-#call-to-action h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
-   text-transform: uppercase;
-   letter-spacing: 3px;
-   color: #fff;
-}
-#call-to-action h1 span { display: none; }
-#call-to-action .header-col h1:before {
-   font-family: 'FontAwesome';
-   content: "\f0ac";
-	padding-right: 10px;
-	font-size: 72px;
-   line-height: 72px;
-   text-align: left;
-   float: left;
-   color: #fff;
-}
-#call-to-action .action {
-   margin-top: 12px;
-}
-#call-to-action h2 {
-   font: 28px/36px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
-   margin-bottom: 6px;
-}
-#call-to-action h2 a {
-   color: inherit;
-}
-#call-to-action p {
-   color: #636363;
-   font-size: 17px;
-}
-/*#
-call-to-action .button {
-	color:#fff;
-   background: #0D0D0D;
-}
-*/
-#call-to-action .button:hover,
-#call-to-action .button:active {
-   background: #FFFFFF;
-   color: #0D0D0D;
-}
-#call-to-action p span {
-	font-family: 'opensans-semibold', sans-serif; 
-	color: #D8D8D8;
-}
-
 /* ------------------------------------------------------------------
 /* g. Testimonials
 /* ------------------------------------------------------------------ */
@@ -760,7 +692,7 @@ call-to-action .button {
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
-   font-family: 'librebaskerville-italic', serif;
+   /*font-family: 'librebaskerville-italic', serif;*/
    padding: 0;
    font-size: 24px;
    line-height: 48px;

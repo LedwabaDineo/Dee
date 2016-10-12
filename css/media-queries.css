@@ -385,7 +385,7 @@
 
 @media screen and (max-width: 500px){
    header {
-      height: 480px;
+      height: 100%;
 
    }
 }
